@@ -1,5 +1,3 @@
-![demo](https://github.com/ijeong1/swiftelevator/blob/main/swiftelevator.gif)
-
 Key Components for this project :
 1. Models: Elevator with properties for state tracking
 2. Service: Handles elevator logic and state management
@@ -26,3 +24,5 @@ The elevators will show as
 - Red when they're at a floor and moving
 - Blue when they're at a floor and stopped
 - Gray for all other floors they're not currently on
+
+![demo](https://github.com/ijeong1/swiftelevator/blob/main/swiftelevator.gif)
